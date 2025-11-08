@@ -38,7 +38,7 @@ folder_comparison_tool/
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/caitlyns85/folder-comparison.git
 cd folder_comparison_tool
 ```
 
